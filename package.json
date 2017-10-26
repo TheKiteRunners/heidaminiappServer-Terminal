@@ -1,0 +1,21 @@
+{
+  "name": "heida",
+  "version": "0.0.1",
+  "description": "heida wechat application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mr.Bobo",
+  "license": "ISC",
+  "dependencies": {
+    "iconv-lite": "^0.4.19",
+    "koa": "^2.3.0",
+    "koa-bodyparser": "^4.2.0",
+    "koa-router": "^7.2.1",
+    "mime": "^2.0.3",
+    "mysql2": "^1.4.2",
+    "mz": "^2.7.0",
+    "superagent": "^3.7.0"
+  }
+}
